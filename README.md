@@ -1,2 +1,2 @@
 # PictureSpider
-Find pictures and download to local loacations.
+Find pictures and download to local locations.
