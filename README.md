@@ -1,2 +1,2 @@
 # PictureSpider
-The first spider of mine!Using python,find girl pictures and download to loacal loacations.
+Find pictures and download to local loacations.
